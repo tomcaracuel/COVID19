@@ -5,7 +5,8 @@ Python, inferencia y más para mirar los datos provistos por el Ministerio de sa
 
 Algunos resultados:
 
-![ej_grafico](https://user-images.githubusercontent.com/66931754/100670517-bf462900-333d-11eb-8ef0-6f585e108a21.png)
+![grafico covid](https://user-images.githubusercontent.com/66931754/103490882-9cf07100-4dfd-11eb-8386-d471b299eaf5.png)
+
 
 ![edades](https://user-images.githubusercontent.com/66931754/102004106-836f7400-3cec-11eb-859f-e5bff60b0539.png)
 
