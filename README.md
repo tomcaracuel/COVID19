@@ -11,4 +11,6 @@ Algunos resultados:
 
 ![ej_probabilidad](https://user-images.githubusercontent.com/66931754/100670531-c4a37380-333d-11eb-8457-4599c58465a4.png)
 
+![prob_fallecer](https://user-images.githubusercontent.com/66931754/103490841-66b2f180-4dfd-11eb-8c1d-54a9932837a3.png)
+
 
